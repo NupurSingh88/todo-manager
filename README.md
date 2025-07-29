@@ -1,2 +1,2 @@
-# todo-manager
-This repo contains code for TodoList Manager
+# todolist
+This is a project for a todo list app
